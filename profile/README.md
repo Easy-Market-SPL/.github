@@ -35,7 +35,7 @@ Nuestra **Línea de Productos de Software (SPL)** permite:
 
 ## 📂 Repositorios Destacados
 Aquí encontrarás diferentes proyectos y módulos que forman parte de nuestra iniciativa:
-- [EasyMarket API](https://github.com/tu-organizacion/api) - Backend y servicios REST desarrollados con **Spring Boot** y **Spring Cloud**.
+- [EasyMarket API](https://github.com/Easy-Market-SPL/dev-infrastructure) - Backend y servicios REST desarrollados con **Spring Boot** y **Spring Cloud**.
 - [EasyMarket Frontend](https://github.com/Easy-Market-SPL/spl-front) - Interfaz de usuario adaptable desarrollada en **Flutter**.
 
 ## 🛠️ Stack Tecnológico
