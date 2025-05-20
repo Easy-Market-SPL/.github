@@ -13,7 +13,7 @@ Somos un grupo de desarrolladores de la carrera de Ingeniería de Sistemas de la
 * Camilo Esteban Mora Gomez: [@CaMoraG](https://www.github.com/CaMoraG)
 * Javier Alejandro Moyano Cipamocha: [@Moyano1711](https://www.github.com/Moyano1711)
 
-**Tutor:** Carlos Andrés Parra Acevedo
+**Tutor:** Carlos Andrés Parra Acevedo [@ca-parra](https://github.com/ca-parra)
 
 ## 🎯 Nuestra Misión
 Facilitar la transformación digital de las empresas del sector comercio en Colombia mediante el desarrollo de herramientas tecnológicas modulares y escalables, mejorando la gestión de pedidos, clientes, pagos y catálogos.
